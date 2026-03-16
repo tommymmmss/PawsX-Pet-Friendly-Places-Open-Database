@@ -1,53 +1,370 @@
 [
   {
-    "name": "宠物家（深圳宝体店）",
-    "address": "深圳市宝安区新安街道海旺社区84区裕安一路3074号风临洲裕安一路3074-36号",
+    "address": "深圳市宝安区新安街道海旺社区84区裕安一路3074号风临洲裕安一路3074-36号（原B-10号铺）",
     "average_rating": 4.8,
+    "name": "宠物家（深圳宝体店）",
     "phone": "+86 13049827828",
     "tags": {
+      "access_rule": [
+        "可下地"
+      ],
+      "facilities": [
+        "宠物水碗",
+        "拾便袋"
+      ],
       "friendly_type": [
         "宠物店"
       ],
       "pet_restriction": [
-        "犬猫友好"
+        "犬猫友好",
+        "大型犬友好"
       ]
     },
+    "business_hours": "周一至周日09:00-21:30",
+    "description": "宠物家（宝体店）是一家提供专业美容、洗澡、驱虫服务的宠物店，支持小程序预约，服务完成后可查看宠物萌照，店内还售卖宠物零食和狗粮。",
     "location": {
       "latitude": 22.5567,
       "longitude": 113.8895
     },
+    "name_en": "Chongwujia (Baoti Store)",
     "avatar_image": "",
     "display_images": []
   },
   {
-    "name": "深圳万象前海",
     "address": "深圳市南山区南山街道桂湾社区桂湾四路169号",
-    "average_rating": 4.8,
+    "business_hours": "周一至周四，周日10:00-22:00；周五，周六10:00-22:30",
+    "description": "前海桂湾核心商圈的10万平米轻奢宠物友好购物中心，汇聚国际一线品牌与高端餐饮，由日本设计师片山正通打造\"Quality Life、News Life、Art Life\"三大主题空间。",
     "location": {
       "latitude": 22.5268,
       "longitude": 113.9046
     },
+    "name": "深圳万象前海",
+    "phone": "+86 13265494608",
+    "average_rating": 4.8,
+    "name_en": "MixC Qianhai",
     "tags": {
+      "access_rule": [
+        "室外需要牵绳",
+        "室内需要推车"
+      ],
+      "facilities": [
+        "宠物水碗",
+        "拾便袋",
+        "停狗点",
+        "可租推车"
+      ],
       "friendly_type": [
         "商场"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
       ]
     },
     "avatar_image": "",
     "display_images": []
   },
   {
-    "name": "BegL餐厅（深圳万象天地店）",
-    "address": "深圳市南山区万象天地里巷地面1楼NL152B",
-    "average_rating": 5.0,
+    "phone": "+86 19098551595",
+    "tags": {
+      "access_rule": [
+        "可松绳"
+      ],
+      "facilities": [
+        "宠物水碗",
+        "宠物尿垫"
+      ],
+      "friendly_type": [
+        "餐厅"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ]
+    },
+    "business_hours": "周一至周日10:00-22:00",
+    "description": "一家主打贝果的宝藏餐厅，南法复古风格装修清新优雅，户外庭院阳光充足适合打卡，提供宠物专属贝果。",
     "location": {
       "latitude": 22.5336,
       "longitude": 113.9372
     },
+    "name": "BegL餐厅（深圳万象天地店）",
+    "name_en": "BegL (MixC Commune Store)",
+    "address": "深圳市南山区万象天地里巷地面1楼NL152B",
+    "average_rating": 5.0,
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
     "tags": {
+      "facilities": [
+        "可租推车"
+      ],
       "friendly_type": [
-        "餐厅"
+        "商场"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ],
+      "access_rule": [
+        "室外需要牵绳",
+        "室内需要推车"
       ]
     },
+    "address": "深圳市宝安区宝华路与海天路交叉口西南430米（近临海地铁站B2出口）",
+    "average_rating": 4.5,
+    "business_hours": "周一至周四11:00-21:00；周五至周日11:00-22:00",
+    "description": "宝安中心区滨海地带的超大型文旅综合体，有128米高宠物友好摩天轮、海滨公园和商业街区，可以逛海边、看艺术展，一站式享受滨海生活。",
+    "location": {
+      "latitude": 22.5463,
+      "longitude": 113.8835
+    },
+    "name": "深圳欢乐港湾",
+    "name_en": "Shenzhen Happy Harbor",
+    "phone": "+86 755-40076223",
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "name": "深圳前海壹方城",
+    "address": "深圳市宝安区新安街道新湖路99号",
+    "average_rating": 4.8,
+    "business_hours": "周一至周四，周日10:00-22:00；周五，周六10:00-22:30",
+    "location": {
+      "latitude": 22.5542,
+      "longitude": 113.884
+    },
+    "name_en": "Shenzhen Qianhai One Avenue",
+    "phone": "+86 13265492046",
+    "tags": {
+      "access_rule": [
+        "室外需要牵绳",
+        "室内需要推车"
+      ],
+      "facilities": [
+        "可租推车"
+      ],
+      "friendly_type": [
+        "商场"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ]
+    },
+    "description": "深圳最大单体宠物友好购物中心，36万平米超大体量，400+品牌入驻，地铁1/5号线直达，集购物、餐饮、娱乐、亲子于一体，节假日休闲好去处。",
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "average_rating": 4.8,
+    "business_hours": "周一至周五08:00-22:00；周六，周日09:00-22:30",
+    "description": "宝安中心区5.8万平米的夜文化特色主题商业，集聚特色餐饮、休闲娱乐、生活配套等多元业态，与地铁5号线宝华站无缝衔接，酒吧街营业至凌晨2点。",
+    "name": "深圳前海HOP天地",
+    "name_en": "Shenzhen Qianhai HOP World",
+    "tags": {
+      "access_rule": [
+        "需要牵绳"
+      ],
+      "facilities": [],
+      "friendly_type": [
+        "商场"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ]
+    },
+    "address": "深圳市宝安区新安街道海旺社区兴华一路19号",
+    "location": {
+      "latitude": 22.5534,
+      "longitude": 113.8875
+    },
+    "phone": "+86 13265496460",
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "tags": {
+      "access_rule": [
+        "公园内需要推车",
+        "公园外草坪可下地"
+      ],
+      "facilities": [],
+      "friendly_type": [
+        "公园"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ]
+    },
+    "description": "前海石公园是深圳前海自贸区的一座滨海休闲公园，以刻有\"前海\"二字的巨型黄蜡石闻名，公园坐拥无敌海景和大草坪，是观海、赏日落的热门打卡地。",
+    "name_en": "Qianhai Stone Park",
+    "address": "深圳市南山区前海大道与金岸中街交汇处",
+    "average_rating": 4.8,
+    "business_hours": "周一至周日06:00-23:00",
+    "location": {
+      "latitude": 22.5234,
+      "longitude": 113.8916
+    },
+    "name": "前海石公园",
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "name": "深圳前海深港青年梦工厂",
+    "phone": "+86 15531322340",
+    "description": "深港青年梦工厂有中央大草坪可让狗狗自由奔跑，还会举办粤港夜巷市集、创意市集等活动，有街机、唱歌、美食等，是年轻人+宠物的社交新地标。",
+    "location": {
+      "latitude": 22.5229,
+      "longitude": 113.8996
+    },
+    "name_en": "Shenzhen Qianhai Youth Dream Factory",
+    "tags": {
+      "access_rule": [
+        "中央大草坪可松绳",
+        "室外其余区域需要牵绳",
+        "室内需要推车"
+      ],
+      "facilities": [
+        "拾便袋"
+      ],
+      "friendly_type": [
+        "创意园区"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ]
+    },
+    "address": "深圳市南山区前湾一路",
+    "average_rating": 4.8,
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "average_rating": 4.8,
+    "business_hours": "周一至周日10:00-22:00",
+    "description": "前海核心区4.8万平米国际化商场，嘉里建设打造，拥30%绿化率和下沉式广场，地铁前湾站直达，广场经常举办宠物活动，是前海地标级商业综合体。",
+    "location": {
+      "latitude": 22.5239,
+      "longitude": 113.9018
+    },
+    "tags": {
+      "access_rule": [
+        "室外需要牵绳",
+        "室内需要推车"
+      ],
+      "facilities": [
+        "宠物水碗",
+        "停狗点"
+      ],
+      "friendly_type": [
+        "商场"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ]
+    },
+    "name": "深圳前海嘉里中心",
+    "name_en": "Shenzhen Qianhai Kerry Centre",
+    "phone": "+86 13049806971",
+    "address": "深圳市南山区前海自贸区前湾一路与临海大道交汇处",
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "address": "深圳市宝安区宝兴路8号",
+    "average_rating": 5.0,
+    "description": "6公里超长滨海绿道，沿江高速桥下建成，漫步道+跑步道+骑行道三线贯通，还有专门的宠物公园（分大/小型犬），串联西湾到前海，遛狗运动超方便。",
+    "location": {
+      "latitude": 22.5476,
+      "longitude": 113.8738
+    },
+    "name_en": "Mountain-Sea City-Qianhai Bay Slow-Traffic Public Space",
+    "tags": {
+      "access_rule": [
+        "需要牵绳"
+      ],
+      "facilities": [
+        "宠物乐园",
+        "宠物饮水机",
+        "宠物拾便袋"
+      ],
+      "friendly_type": [
+        "公园"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ]
+    },
+    "business_hours": "周一至周日06:00-19:00",
+    "name": "山海连城-前海湾慢行公共空间",
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "name_en": "Taihua Wutong Village",
+    "tags": {
+      "access_rule": [
+        "需要牵绳"
+      ],
+      "facilities": [
+        "宠物乐园",
+        "宠物饮水机",
+        "宠物拾便袋"
+      ],
+      "friendly_type": [
+        "创意园区"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ]
+    },
+    "address": "深圳市宝安区新湖路与兴华一路交汇处",
+    "description": "宝安中心区7万平米园林式园区，8000平人工湖+环湖绿植+小溪流水，园区内咖啡厅都宠物友好，户外有宠物乐园，狗狗可以撒欢玩耍。",
+    "name": "泰华梧桐村",
+    "average_rating": 5.0,
+    "business_hours": "全天营业",
+    "location": {
+      "latitude": 22.5532,
+      "longitude": 113.8873
+    },
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "name": "一饮咖啡（宝安中心店）",
+    "phone": "+86 13312996110",
+    "description": "宝安泰华梧桐村里的宝藏咖啡店，泥土风格装修+自然温馨氛围，藏在7栋2楼大树后，适合带狗狗来喝咖啡享受慢悠悠的下午时光。",
+    "location": {
+      "latitude": 22.5533,
+      "longitude": 113.8872
+    },
+    "name_en": "Yin Coffee (Baoan Center)",
+    "tags": {
+      "facilities": [
+        "宠物水碗"
+      ],
+      "friendly_type": [
+        "咖啡厅"
+      ],
+      "pet_restriction": [
+        "犬猫友好",
+        "大型犬友好"
+      ],
+      "access_rule": [
+        "需要牵绳"
+      ]
+    },
+    "address": "宝安区新安街道兴华一路泰华·梧桐村7栋2楼215号",
+    "average_rating": 5.0,
+    "business_hours": "周一，周三至周日09:00-18:00",
     "avatar_image": "",
     "display_images": []
   }
