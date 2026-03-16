@@ -1,0 +1,54 @@
+[
+  {
+    "name": "宠物家（深圳宝体店）",
+    "address": "深圳市宝安区新安街道海旺社区84区裕安一路3074号风临洲裕安一路3074-36号",
+    "average_rating": 4.8,
+    "phone": "+86 13049827828",
+    "tags": {
+      "friendly_type": [
+        "宠物店"
+      ],
+      "pet_restriction": [
+        "犬猫友好"
+      ]
+    },
+    "location": {
+      "latitude": 22.5567,
+      "longitude": 113.8895
+    },
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "name": "深圳万象前海",
+    "address": "深圳市南山区南山街道桂湾社区桂湾四路169号",
+    "average_rating": 4.8,
+    "location": {
+      "latitude": 22.5268,
+      "longitude": 113.9046
+    },
+    "tags": {
+      "friendly_type": [
+        "商场"
+      ]
+    },
+    "avatar_image": "",
+    "display_images": []
+  },
+  {
+    "name": "BegL餐厅（深圳万象天地店）",
+    "address": "深圳市南山区万象天地里巷地面1楼NL152B",
+    "average_rating": 5.0,
+    "location": {
+      "latitude": 22.5336,
+      "longitude": 113.9372
+    },
+    "tags": {
+      "friendly_type": [
+        "餐厅"
+      ]
+    },
+    "avatar_image": "",
+    "display_images": []
+  }
+]
